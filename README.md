@@ -2,7 +2,7 @@
 
 This project aims to minimize CO₂ emissions in last-mile delivery or supply chain routing by optimizing transportation routes using Google OR-Tools. It considers vehicle emission rates, travel distances, and logistics planning to achieve a more sustainable supply chain.
 
-🔍 Features
+# 🔍 Features
 Route optimization using Google OR-Tools
 
 CO₂ emissions calculation per route
